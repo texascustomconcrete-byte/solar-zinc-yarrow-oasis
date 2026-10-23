@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Nexus Desk",
+      "hasCanvas": false,
+      "bodyTextLen": 714,
+      "bodyTextHash": "f18d8e78c13b9a9d0fa7d4c6a7813e6fac9873419340adaefa9779d553cbeae0",
+      "bodyTextPrefix": "Nexus Desk SoulTy · one brain on the Yoga Preview mind uses the ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/built-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Nexus Desk",
+      "hasCanvas": false,
+      "bodyTextLen": 489,
+      "bodyTextHash": "7d811ab43854c483df07012f8567f7d4640883456860a67e019c45263fdeeaf9",
+      "bodyTextPrefix": "Nexus Desk SoulTy · one brain on the Yoga Nexus One mind. Practi",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/built-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/built-preview.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
